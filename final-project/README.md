@@ -9,3 +9,4 @@ This repository contains the data, code, and notebook associated with the text a
 - classification_results.csv displays the predictions made with the machine learning model in CSV format.
 - adaboost confusion matrix.png displays the confusion matrix of the model produced using the AdaBoost classifier.
 - confusion_matrix.csv displays the AdaBoost confusion matrix in CSV format.
+- Poster.pdf contains the poster display which provides an overview of the project.
